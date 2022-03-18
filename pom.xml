@@ -2,16 +2,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
+	
 	<parent>
-		<groupId>com.linh.pfa</groupId>
-		<artifactId>pfa</artifactId>
+		<groupId>com.lin.commons</groupId>
+		<artifactId>common-pom</artifactId>
 		<version>1.0.0</version>
-		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<artifactId>stock-price-job</artifactId>
+	<groupId>com.lin.pfa</groupId>
+	<artifactId>pfa-stock-price-job</artifactId>
 	<version>1.0.0</version>
-	<name>stock-price-job</name>
+	<name>pfa-stock-price-job</name>
 	<description>Stock price update job</description>
 
 	<dependencies>

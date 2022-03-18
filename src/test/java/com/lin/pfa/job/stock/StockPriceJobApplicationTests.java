@@ -1,4 +1,4 @@
-package com.linh.pfa.job.stock;
+package com.lin.pfa.job.stock;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

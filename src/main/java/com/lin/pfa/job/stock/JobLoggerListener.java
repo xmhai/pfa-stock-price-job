@@ -1,4 +1,4 @@
-package com.linh.pfa.job.stock;
+package com.lin.pfa.job.stock;
 
 import org.springframework.batch.core.JobExecution;
 import org.springframework.batch.core.JobExecutionListener;

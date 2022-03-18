@@ -1,4 +1,4 @@
-package com.linh.pfa.job.stock;
+package com.lin.pfa.job.stock;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
